@@ -3,7 +3,7 @@
 //  week02_Lifecycle
 //
 //  Created by 박지영 on 2021/09/16.
-//dd
+//
 
 import UIKit
 
