@@ -16,6 +16,6 @@ class ViewController: UIViewController {
 
 
     @IBOutlet weak var start: UILabel!
-    //라벨추가 
+    //라벨추가 하기
 }
 
