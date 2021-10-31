@@ -17,5 +17,8 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var start: UILabel!
     //라벨추가 하기
+    override func viewDidAppear(_ animated: Bool) {
+        <#code#>//나중에 나타내기
+    }
 }
 
